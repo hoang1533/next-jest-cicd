@@ -8,6 +8,6 @@ export default function Page({ params }: Params) {
   return <>
   <h1>Slug: {params.slug}</h1>
   <p>HoleTex</p>
-  <p>Welcom</p>
+  <p>Welcom to HCM</p>
   </>
 }
